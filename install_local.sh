@@ -1,2 +1,2 @@
-ln -s -f .tmux.conf ~/.tmux/.tmux.conf
-ln -s -f .tmux.conf.local ~/.tmux/.tmux.conf.local
+ln -s -f ~/.tmux/.tmux.conf ~/.tmux.conf
+ln -s -f ~/.tmux/.tmux.conf.local ~/.tmux.conf.local
